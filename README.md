@@ -18,7 +18,7 @@ git clone https://github.com/AbGh2011/AI-Learning-Journey.git
 2. Install the requirements:
 pip install -r requirements.txt
 
-3. Explore the Jupyter notebooks or .py files inside the projects/ folder.
+3. Explore the Jupyter notebooks after connecting to the kernel.
 
 ## Goals
 - Learn and apply AI concepts hands-on.
