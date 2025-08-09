@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['solar-panels']
+
+roboflow:
+  workspace: brad-dwyer
+  project: aerial-solar-panels
+  version: 13
+  license: Private
+  url: https://universe.roboflow.com/brad-dwyer/aerial-solar-panels/dataset/13
